@@ -23,7 +23,7 @@ on:
 
 env:
   REPO_URL: https://github.com/koshev-msk/openwrt
-  REPO_BRANCH: my_devices
+  REPO_BRANCH: my_build
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
